@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="541d4b58-7837-4cf9-9139-164116aadcfb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xr8Mzc5sfWrkpIzwBs9CZA1kxj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="541d4b58-7837-4cf9-9139-164116aadcfb" name="Default Changelist" comment="" />
+      <created>1581792809157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581792809157</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2055" y="358" width="598" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581963651070">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2055" y="358" width="598" height="397" key="#com.intellij.fileTypes.FileTypeChooser/1366.0.1920.1080/0.123.1366.768@1366.0.1920.1080" timestamp="1581963651070" />
+    <state x="1848" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1581963914333">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1848" y="188" width="1022" height="737" key="SettingsEditor/1366.0.1920.1080/0.123.1366.768@1366.0.1920.1080" timestamp="1581963914333" />
+    <state x="484" y="200" key="com.intellij.ide.util.TipDialog" timestamp="1582315385188">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="438" y="302" key="com.intellij.ide.util.TipDialog/1366.0.1920.1080/0.123.1366.768@0.123.1366.768" timestamp="1581872393770" />
+    <state x="1982" y="252" key="com.intellij.ide.util.TipDialog/1366.0.1920.1080/0.123.1366.768@1366.0.1920.1080" timestamp="1581999484769" />
+    <state x="616" y="367" key="com.intellij.ide.util.TipDialog/1920.123.1366.768/0.150.1920.930@0.150.1920.930" timestamp="1581792938064" />
+    <state x="616" y="394" key="com.intellij.ide.util.TipDialog/1920.158.1366.768/0.185.1920.895@0.185.1920.895" timestamp="1582256881034" />
+    <state x="2358" y="337" key="com.intellij.ide.util.TipDialog/1920.158.1366.768/0.185.1920.895@1920.158.1366.768" timestamp="1582124864588" />
+    <state x="484" y="200" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1582315385188" />
+    <state x="613" y="137" width="683" height="813" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582139373721">
+      <screen x="0" y="185" width="1920" height="895" />
+    </state>
+    <state x="613" y="137" width="683" height="813" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.158.1366.768/0.185.1920.895@0.185.1920.895" timestamp="1582139373721" />
+    <state x="608" y="251" width="704" height="578" key="find.popup" timestamp="1582246013609">
+      <screen x="0" y="185" width="1920" height="895" />
+    </state>
+    <state x="608" y="251" width="704" height="578" key="find.popup/1920.158.1366.768/0.185.1920.895@0.185.1920.895" timestamp="1582246013609" />
+  </component>
+</project>
