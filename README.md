@@ -1,5 +1,3 @@
-# Backend developer position challenge
-
 ### Description
 
     We require to develop an API for e-learning courses to integrate in our system. 
